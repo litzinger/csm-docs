@@ -1,5 +1,5 @@
 ---
-title: Exmaple
+title: Example
 taxonomy:
     category: docs
 ---
